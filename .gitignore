@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+#// Add 11/02/2022
+*.pyc
+*.pem
+*.pub
+*.tar.gz
+*.zip
+*.sql
+*.db
+secrets.txt
+./tmp
+./build/*
+.idea/*
+.idea
+env
+venv
